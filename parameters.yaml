@@ -1,0 +1,3 @@
+ENDPOINT : "https://comp-us-steel-rfp.cognitiveservices.azure.com/"
+API_KEY : "fa518305392f4f8fa14ce052c13ffd2d"
+container_sas_united_rentals_url : "https://ussteelrfp.blob.core.windows.net/ussteelinvoices?sp=racwl&st=2024-08-06T12:56:11Z&se=2024-12-31T05:00:00Z&sv=2022-11-02&sr=c&sig=aZjoPZhcWvC8WX5uOYtawcGt7lGkAx31cyEel0lgVk8%3D"
